@@ -57,3 +57,4 @@ int	ft_queue_len(t_queue *q)
 	}
 	return (index);
 }
+

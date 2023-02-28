@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "my_oct_tree.h": "c",
+        "ft_queue.h": "c",
+        "math.h": "c",
+        "__node_handle": "c",
+        "ft_param.h": "c",
+        "array": "c",
+        "vector": "c",
+        "atomic": "c",
+        "bitset": "c"
+    }
+}
