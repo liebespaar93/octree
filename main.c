@@ -143,7 +143,7 @@ int main(int argc, char const *argv[])
 	
     a = NULL;
 	int size;
-	size = 10;
+	size = 50;
 	b = malloc(sizeof(double [3]) * (size * 2 + 1));
 	if (!b)
 		return (0);
